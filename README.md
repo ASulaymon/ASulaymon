@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ASulaymon
+- 👀 I’m interested in programming, engineering and designing
+- 🌱 I’m currently learning backend with python
+- 📫 How to reach me sulaymonabdusharipov8@gmail.com

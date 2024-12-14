@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://asulaymon.netlify.app](https://asulaymon.netlify.app)
 
-- 📝 I regularly write articles on [https://t.me/ASulaymon.netlify.app](https://t.me/ASulaymon.netlify.app)
+- 📝 I regularly write articles on [ASulaymonBlogs](https://t.me/ASulaymonBlogs)
 
 - 💬 Ask me about **HTML, CSS, SCSS, JS, python, Design tips**
 

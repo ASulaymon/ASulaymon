@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [https://asulaymon.netlify.app](https://asulaymon.netlify.app)
 
-- 📝 I regularly write articles on [ASulaymonBlogs](https://t.me/ASulaymonBlogs)
+- 📝 I regularly write articles on https://t.me/ASulaymonBlogs
 
 - 💬 Ask me about **HTML, CSS, SCSS, JS, python, Design tips**
 
-- 📫 How to reach me **[ASulaymon - telegram](https://t.me/sulaymonabdusharipov)**
+- 📫 How to reach me **https://t.me/sulaymonabdusharipov**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

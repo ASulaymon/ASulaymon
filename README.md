@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [LiftUp](https://liftingup.netlify.app)
 
-- 🌱 I’m currently learning **Backend with python**
+- 🌱 I’m currently learning **Backend, python**
 
 - 👨‍💻 All of my projects are available at [https://asulaymon.netlify.app](https://asulaymon.netlify.app)
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **HTML, CSS, SCSS, JS, python, Design tips**
 
-- 📫 How to reach me **sulaymonabdusharipov8@gmail.com**
+- 📫 How to reach me **[ASulaymon - telegram](https://t.me/sulaymonabdusharipov)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

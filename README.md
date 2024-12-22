@@ -3,13 +3,13 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asulaymon&theme=juicyfresh" alt="asulaymon" /></a> </p>
 
-- 🔭 I’m currently working on `online`
+- 🔭 I’m currently working **`online`**
 
 - 🌱 I’m currently learning **`Backend` & `python` & `react.js`**
 
-- 👨‍💻 All of my projects are available at [`asulaymon portfolio`](https://asulaymon.netlify.app)
+- 👨‍💻 All of my projects are available at **([`asulaymon portfolio`](https://asulaymon.netlify.app)**
 
-- 📝 I regularly write articles on **[`ASulaymonBlogs - telegram`](https://t.me/ASulaymonBlogs)
+- 📝 I regularly write articles on **[`ASulaymonBlogs - telegram`](https://t.me/ASulaymonBlogs)**
 
 - 💬 Ask me about **`HTML` & `CSS` & `SCSS` & `JS` & `python` & `Design tips`**
 

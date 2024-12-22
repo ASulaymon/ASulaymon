@@ -31,7 +31,7 @@
 ---
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ASulaymon"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ASulaymon" /></a> <a href="https://t.me/boost/ASulaymonBlogs">⚡ Boost my telegram channel!</a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/ASulaymon"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ASulaymon" /></a> <a href="https://t.me/boost/ASulaymonBlogs" style="text-decoration: none; padding: 20px; display: flex; justify-content: center; background-color: #121212; color: #00ff00; border-radius: 15px;">⚡ Boost my telegram channel!</a></p>
 
 ---
 

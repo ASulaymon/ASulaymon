@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ASulaymon.</h1>
 <h3 align="center">A curious frontend developer and designer from Kharezm</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asulaymon/?theme=onestar" alt="asulaymon" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asulaymon&theme=onestar" alt="asulaymon" /></a> </p>
 
 - 🔭 I’m currently working on `online`
 

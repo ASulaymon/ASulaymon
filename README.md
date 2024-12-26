@@ -72,8 +72,8 @@
 
 ---
 
-<div style="display: flex; justify-content: space-between;">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asulaymon&show_icons=true&locale=en&layout=compact" alt="asulaymon" /></p>
+<div>
+  <p><img align="left" height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=asulaymon&show_icons=true&locale=en&layout=compact" alt="asulaymon" /></p>
 
   <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=asulaymon&" alt="asulaymon" /></p>
 </div>

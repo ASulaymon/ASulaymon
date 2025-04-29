@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at **[`asulaymon portfolio`](https://asulaymon.netlify.app)**
 
-- 📝 I regularly write articles on **[`ASulaymonBlogs - telegram`](https://t.me/ASulaymonBlogs)**
-
 - 💬 Ask me about **`HTML` & `CSS` & `SCSS` & `JS` & `python` & `Design tips`**
 
 - 📫 How to reach me **[`ASulaymon - telegram`](https://t.me/sulaymonabdusharipov)**
@@ -18,9 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/a_sulaymon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a_sulaymon" height="30" width="40" /></a>
-<a href="https://instagram.com/asulaym0n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asulaym0n" height="30" width="40" /></a>
-<a href="https://www.behance.net/asulaymon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="asulaymon" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/asulaymon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="asulaymon" height="30" width="40" /></a>
+<a href="https://t.me/sulaymonabdusharipov" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" alt="ASulaymon telegram" height="30" width="40" /></a>
 </p>
 
 ---
@@ -50,7 +46,7 @@
   </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
+  </a
 </p>
 
 ---
@@ -59,13 +55,7 @@
 <p>
   <a href="https://www.buymeacoffee.com/ASulaymon">
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ASulaymon" />
-  </a>
-  <a href="https://www.youtube.com/channel/ASulaymon?sub_confirmation=1">
-    <img src="https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/youtube.svg" align="left" alt="subscribe to my youtube" width="210" height="50">
-  </a>
-  <a href="https://t.me/ASulaymonBlogs">
-    <img src="https://static.vecteezy.com/system/resources/previews/020/964/381/non_2x/telegram-circle-icon-for-web-design-free-png.png" alt="subscribe to my telegram channel" height="50">
-  </a>
+  </a
 </p>
 <br>
 <br>
